@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Sohaib Waheed, AI Product Architect">
+  <rect width="1100" height="300" fill="#12100d"/>
+  <rect x="0" y="0" width="1100" height="2" fill="#c4a46a"/>
+  <rect x="40" y="40" width="28" height="1" fill="#c4a46a"/>
+  <text x="78" y="45" fill="#c4a46a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2">SOHAIB WAHEED  ·  2016-2026</text>
+  <text x="40" y="118" fill="#f3ece0" font-family="Georgia, 'Times New Roman', serif" font-size="46">AI Product Architect.</text>
+  <text x="40" y="158" fill="#9a9184" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">Agentic AI for regulated industries. Business problem and technical system, held together.</text>
+  <line x1="40" y1="186" x2="620" y2="186" stroke="#2a2620" stroke-width="1"/>
+  <text x="40" y="224" fill="#c4a46a" font-family="Georgia, 'Times New Roman', serif" font-size="15">Paper  -&gt;  Pushback  -&gt;  Production</text>
+  <text x="40" y="252" fill="#6f685e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">sohaibwaheed.com   ·   paperfirstmethod.com   ·   zaltechai.com</text>
+  <g transform="translate(760,58)" fill="none" stroke="#2f2a23" stroke-width="1.2">
+    <rect x="20" y="8" width="88" height="36" rx="3"/>
+    <rect x="132" y="8" width="88" height="36" rx="3"/>
+    <rect x="76" y="72" width="88" height="36" rx="3"/>
+    <rect x="20" y="136" width="88" height="36" rx="3"/>
+    <rect x="132" y="136" width="88" height="36" rx="3"/>
+    <path d="M64 44v14h80V44"/>
+    <path d="M120 108v14"/>
+    <path d="M64 172v-14h80v14"/>
+  </g>
+  <g transform="translate(760,58)" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="9" letter-spacing="0.6">
+    <text x="40" y="30" fill="#8a8276">FLOW</text>
+    <text x="148" y="30" fill="#8a8276">JOURNEY</text>
+    <text x="94" y="94" fill="#c4a46a">*  AI</text>
+    <text x="36" y="158" fill="#8a8276">RETRIEVE</text>
+    <text x="148" y="158" fill="#c4a46a">HUMAN</text>
+  </g>
+</svg>
