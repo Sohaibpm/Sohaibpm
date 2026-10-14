@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Sohaib Waheed — AI Product Architect" width="100%" />
+  <img src="assets/header.png" alt="Sohaib Waheed — AI Product Architect" width="100%" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@ Most of that work now sits in **pharma, medtech and financial services**, where 
 </p>
 
 <div align="center">
-  <img src="assets/metrics.svg" alt="100+ engagements, 20+ products, 41% to 90%+ FDA accuracy, 1,000+ calls a day, 156k+ legal documents" width="100%" />
+  <img src="assets/metrics.png" alt="100+ engagements, 20+ products, 41% to 90%+ FDA accuracy, 1,000+ calls a day, 156k+ legal documents" width="100%" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ Inside the studio the constraint is tighter: **ship every Friday**. Monday defin
 ## The Paper-First Method
 
 <div align="center">
-  <img src="assets/method.svg" alt="Paper, then Pushback, then Production — seven steps in the same order" width="100%" />
+  <img src="assets/method.png" alt="Paper, then Pushback, then Production — seven steps in the same order" width="100%" />
 </div>
 
 <br/>
